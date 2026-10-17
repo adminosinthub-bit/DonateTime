@@ -46,13 +46,9 @@ time-color: GRAY
 
 Доступные цвета: `BLACK`, `DARK_BLUE`, `DARK_GREEN`, `DARK_AQUA`, `DARK_RED`, `DARK_PURPLE`, `GOLD`, `GRAY`, `DARK_GRAY`, `BLUE`, `GREEN`, `AQUA`, `RED`, `LIGHT_PURPLE`, `YELLOW`, `WHITE`.
 
-## Сборка из исходников
+## Установка
 
-```bash
-mvn package
-```
-
-Готовый jar появится в `target/DonateTime.jar`.
+Скачать `DonateTime.jar` со страницы [Releases](https://github.com/adminosinthub-bit/DonateTime/releases), положить в `plugins/`, перезапустить сервер.
 
 ## Автор
 
